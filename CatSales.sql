@@ -1,0 +1,1 @@
+EXEC dbo.SalesByCategory @OrdYear = '1996', @CategoryName = 'Seafood'
